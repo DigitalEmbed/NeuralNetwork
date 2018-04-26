@@ -69,7 +69,7 @@ As linguagens escolhidas para este projeto serão C e C++. Os motivos  da escolh
 
 ##### Licença Apache 2.0
 
-A licença permissiva cujas principais condições exigem a preservação de avisos de direitos autorais e licença. Os colaboradores fornecem uma concessão expressa de direitos de patente. Trabalhos licenciados, modificações e trabalhos maiores podem ser distribuídos sob termos diferentes e sem código fonte.
+As permissões desta licença de copyleft estão condicionadas a disponibilizar o código fonte completo de trabalhos licenciados e modificações sob a mesma licença ou a GNU GPLv3. Direitos autorais e avisos de licença devem ser preservados. Os colaboradores fornecem uma concessão expressa de direitos de patente. No entanto, um trabalho maior usando o trabalho licenciado por meio de interfaces fornecidas pelo trabalho licenciado pode ser distribuído sob termos diferentes e sem código-fonte para o trabalho maior.
 
 Permissões:
 
