@@ -1,6 +1,6 @@
-#English
+# English
 
-###Preface
+### Preface
 
 Thanks to the algorithms of artificial intelligence, today science has reached a stage never imagined by our ancestors: with them, we have solutions to very complicated problems quickly and automatically. 
 
@@ -8,11 +8,11 @@ Neural networks are used in almost every technological sector, reaching heavy in
 
 Theoretically, a neural network can learn anything as long as the problem in question is correctly modeled and the learning base is of quality. The challenge for this project is to develop a neural network that can be used in embedded systems with low processing power. But, for example, a PIC18F4550 or an ATMega328p would not be able to find solutions to very complex problems in a reasonably short time. The solution to this is to use a learning transfer concept: A more robust system learns, and that learning would be transferred to the embedded system. With this, the embedded system would process the inputs and generate the outputs, which is something that does not demand much processing power. Robotic problems involving inverse kinematics would be easily solved, for example.
 
-The languages ​​chosen for this project will be C and C ++. The reasons are high portability, seeking to reach the widest range of microcontrollers and due to high performance compared to other languages ​​(such as JAVA, for example), increasing the learning speed and processing of inputs.
+The languages chosen for this project will be C and C ++. The reasons are high portability, seeking to reach the widest range of microcontrollers and due to high performance compared to other languages (such as JAVA, for example), increasing the learning speed and processing of inputs.
 
-#Português:
+# Português:
 
-###Introdução
+### Introdução
 
 Graças aos algoritmos de inteligência artificial, hoje a ciência chegou em um patamar jamais imaginados pelos nossos antepassados: com elas, temos soluções para problemas complicadíssimos de forma rápida e automática.
 
