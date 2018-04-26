@@ -10,20 +10,6 @@ Theoretically, a neural network can learn anything as long as the problem in que
 
 The languages chosen for this project will be C and C ++. The reasons are high portability, seeking to reach the widest range of microcontrollers and due to high performance compared to other languages (such as JAVA, for example), increasing the learning speed and processing of inputs.
 
-### How can I contribute?
-
-You can contribute to this project in several ways:
-
-- Improving the algorithm;
-- Fixing bugs;
-- Improving documentation;
-- Testing the algorithms and reporting errors;
-- Solving problems of any kind using this library and sharing the solution to the community;
-
-**Caution:** _Codes follow the **MISRA** pattern. Codes that do not follow this pattern **will not** enter the solution. The only exception is the use of dinamic allocation memory, provided it is used **in the latter case and taking all necessary precautions, such as memory release and use of class destructors.**_
-
-The exception is the use of dynamic memory allocation, but only in the latter case.
-
 ### License
 
 ##### Apache License 2.0
@@ -49,6 +35,22 @@ Conditions:
 - License and copyright notice;
 - State changes;
 
+For more informations, check the _LICENSE_ document.
+
+### How can I contribute?
+
+You can contribute to this project in several ways:
+
+- Improving the algorithm;
+- Fixing bugs;
+- Improving documentation;
+- Testing the algorithms and reporting errors;
+- Solving problems of any kind using this library and sharing the solution to the community;
+
+**Caution:** _Codes follow the **MISRA** pattern. Codes that do not follow this pattern **will not** enter the solution. The only exception is the use of dinamic allocation memory, provided it is used **in the latter case and taking all necessary precautions, such as memory release and use of class destructors.**_
+
+The exception is the use of dynamic memory allocation, but only in the latter case.
+
 # Português
 
 ### Introdução
@@ -61,6 +63,33 @@ Teoricamente, uma rede neural pode aprender qualquer coisa desde que o problema 
 O desafio para este projeto é desenvolver uma rede neural que poderá ser utilizada em sistemas embarcados de baixo poder de processamento. Mas, por exemplo, um PIC18F4550 ou um ATMega328p não conseguiria achar soluções para problemas muito complexos em um tempo razoavelmente curto. A solução para isso é utilizar um conceito de transferência de aprendizado: Um sistema mais robusto aprende, e esse aprendizado seria transferido para o sistema embarcado. Com isso, o sistema embarcado processaria as entradas e geraria as saídas, que é algo que não demanda muito poder de processamento. Problemas de robótica que envolvem cinemática inversa seriam facilmente resolvidos, por exemplo.
 
 As linguagens escolhidas para este projeto serão C e C++. Os motivos  da escolha são alta portabilidade, procurando atingir a maior gama de microcontroladores e devido à alta performance comparado à outras linguagens (como JAVA, por exemplo), aumentando a velocidade de aprendizado e processamento de entradas;
+
+### Licença
+
+##### Licença Apache 2.0
+
+A licença permissiva cujas principais condições exigem a preservação de avisos de direitos autorais e licença. Os colaboradores fornecem uma concessão expressa de direitos de patente. Trabalhos licenciados, modificações e trabalhos maiores podem ser distribuídos sob termos diferentes e sem código fonte.
+
+Permissões:
+
+- Uso comercial;
+- Modificações;
+- Distribuição;
+- Uso em patentes;
+- Uso privado;
+
+Limitações:
+
+- Uso de marca registrada;
+- Responsabilidade;
+- Garantia;
+
+Condições:
+
+- Licença e aviso de direitos autorais;
+- Mudanças de estado;
+
+Para maiores detalhes, checar o documento _LICENSE_.
 
 ### Como posso ajudar?
 
