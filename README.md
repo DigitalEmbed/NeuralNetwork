@@ -12,9 +12,9 @@ The languages chosen for this project will be C and C ++. The reasons are high p
 
 ### License
 
-##### Apache License 2.0
+##### GNU Lesser General Public License v3.0
 
-A permissive license whose main conditions require preservation of copyright and license notices. Contributors provide an express grant of patent rights. Licensed works, modifications, and larger works may be distributed under different terms and without source code.
+Permissions of this copyleft license are conditioned on making available complete source code of licensed works and modifications under the same license or the GNU GPLv3. Copyright and license notices must be preserved. Contributors provide an express grant of patent rights. However, a larger work using the licensed work through interfaces provided by the licensed work may be distributed under different terms and without source code for the larger work.
 
 Permissions:
 
@@ -26,14 +26,15 @@ Permissions:
 
 Limitations:
 
-- Trademark use;
 - Liability;
 - Warranty;
 
 Conditions:
 
 - License and copyright notice;
+- Disclose source;
 - State changes;
+- Same license (library);
 
 For more informations, check the _LICENSE_ document.
 
@@ -80,14 +81,15 @@ Permissões:
 
 Limitações:
 
-- Uso de marca registrada;
 - Responsabilidade;
 - Garantia;
 
 Condições:
 
 - Licença e aviso de direitos autorais;
+- Divulgação do código fonte;
 - Mudanças de estado;
+- Compatibilidade de licenças (para bibliotecas);
 
 Para maiores detalhes, checar o documento _LICENSE_.
 
