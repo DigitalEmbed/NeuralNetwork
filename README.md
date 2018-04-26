@@ -24,6 +24,31 @@ You can contribute to this project in several ways:
 
 The exception is the use of dynamic memory allocation, but only in the latter case.
 
+### License
+
+##### Apache License 2.0
+
+A permissive license whose main conditions require preservation of copyright and license notices. Contributors provide an express grant of patent rights. Licensed works, modifications, and larger works may be distributed under different terms and without source code.
+
+Permissions:
+
+- Commercial use;
+- Modification;
+- Distribuition;
+- Patent Use;
+- Private Use;
+
+Limitations:
+
+- Trademark use;
+- Liability;
+- Warranty;
+
+Conditions:
+
+- License and copyright notice;
+- State changes;
+
 # Português
 
 ### Introdução
