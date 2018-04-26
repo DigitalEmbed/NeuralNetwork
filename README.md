@@ -20,7 +20,7 @@ You can contribute to this project in several ways:
 - Testing the algorithms and reporting errors;
 - Solving problems of any kind using this library and sharing the solution to the community;
 
-**Caution:** _Codes follow the **MISRA** pattern. Codes that do not follow this pattern **will not** enter the solution. The only exception is the use of dinamic allocation memory, provided it is used in the latter case._
+**Caution:** _Codes follow the **MISRA** pattern. Codes that do not follow this pattern **will not** enter the solution. The only exception is the use of dinamic allocation memory, provided it is used **in the latter case.**_
 
 The exception is the use of dynamic memory allocation, but only in the latter case.
 
@@ -47,4 +47,4 @@ Você pode contribuir para este projeto de várias maneiras:
 - Testando os algoritmos e reportando erros;
 - Resolvendo problemas de qualquer natureza utilizando essa biblioteca e compartilhando a solução para a comunidade;
 
-**Atenção:** _Os códigos seguem o padrão **MISRA**. Códigos que não seguem esse padrão **não** entrarão na solução. A única exceção é o uso de alocação dinâmica de memória, contando que seja utilizada em último caso._
+**Atenção:** _Os códigos seguem o padrão **MISRA**. Códigos que não seguem esse padrão **não** entrarão na solução. A única exceção é o uso de alocação dinâmica de memória, contando que seja utilizada **em último caso.**_
