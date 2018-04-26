@@ -20,6 +20,8 @@ You can contribute to this project in several ways:
 - Testing the algorithms and reporting errors;
 - Solving problems of any kind using this library and sharing the solution to the community;
 
+**Caution:** _Codes follow the **MISRA** pattern. Codes that do not follow this pattern will not enter the solution._
+
 # Português:
 
 ### Introdução
@@ -42,3 +44,5 @@ Você pode contribuir para este projeto de várias maneiras:
 - Melhorando a documentação;
 - Testando os algoritmos e reportando erros;
 - Resolvendo problemas de qualquer natureza utilizando essa biblioteca e compartilhando a solução para a comunidade;
+
+**Atenção:** _Os códigos seguem o padrão **MISRA**. Códigos que não seguem esse padrão não entrarão na solução._
