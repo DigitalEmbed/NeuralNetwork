@@ -8,7 +8,7 @@ Neural networks are used in almost every technological sector, reaching heavy in
 
 Theoretically, a neural network can learn anything as long as the problem in question is correctly modeled and the learning base is of quality. The challenge for this project is to develop a neural network that can be used in embedded systems with low processing power. But, for example, a PIC18F4550 or an ATMega328p would not be able to find solutions to very complex problems in a reasonably short time. The solution to this is to use a learning transfer concept: A more robust system learns, and that learning would be transferred to the embedded system. With this, the embedded system would process the inputs and generate the outputs, which is something that does not demand much processing power. Robotic problems involving inverse kinematics would be easily solved, for example.
 
-The languages ​​chosen for this project will be C and C ++. The reasons are high portability, seeking to reach the widest range of microcontrollers and due to high performance compared to other languages ​​(such as JAVA, for example), increasing the learning speed and processing of inputs.
+The languages chosen for this project will be C and C ++. The reasons are high portability, seeking to reach the widest range of microcontrollers and due to high performance compared to other languages (such as JAVA, for example), increasing the learning speed and processing of inputs.
 
 ### How can I contribute?
 
@@ -20,7 +20,7 @@ You can contribute to this project in several ways:
 - Testing the algorithms and reporting errors;
 - Solving problems of any kind using this library and sharing the solution to the community;
 
-**Caution:** _Codes follow the **MISRA** pattern. Codes that do not follow this pattern will not enter the solution._
+**Caution:** _Codes follow the **MISRA** pattern. Codes that do not follow this pattern **will not** enter the solution._
 
 # Português:
 
@@ -45,4 +45,4 @@ Você pode contribuir para este projeto de várias maneiras:
 - Testando os algoritmos e reportando erros;
 - Resolvendo problemas de qualquer natureza utilizando essa biblioteca e compartilhando a solução para a comunidade;
 
-**Atenção:** _Os códigos seguem o padrão **MISRA**. Códigos que não seguem esse padrão não entrarão na solução._
+**Atenção:** _Os códigos seguem o padrão **MISRA**. Códigos que não seguem esse padrão **não** entrarão na solução._
