@@ -2,7 +2,7 @@
 
 ### Preface
 
-     Thanks to the algorithms of artificial intelligence, today science has reached a stage never imagined by our ancestors: with them, we have solutions to very complicated problems quickly and automatically. 
+   Thanks to the algorithms of artificial intelligence, today science has reached a stage never imagined by our ancestors: with them, we have solutions to very complicated problems quickly and automatically. 
 
 Neural networks are used in almost every technological sector, reaching heavy industries, startups, product developers, soft-houses, robotics, automotive industries and even for scientific activities, for example in university research groups and machine learning. 
 
