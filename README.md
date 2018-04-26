@@ -24,7 +24,7 @@ You can contribute to this project in several ways:
 
 The exception is the use of dynamic memory allocation, but only in the latter case.
 
-# Português:
+# Português
 
 ### Introdução
 
