@@ -67,7 +67,7 @@ As linguagens escolhidas para este projeto serão C e C++. Os motivos  da escolh
 
 ### Licença
 
-##### Licença Apache 2.0
+##### GNU Lesser General Public License v3.0
 
 As permissões desta licença de copyleft estão condicionadas a disponibilizar o código fonte completo de trabalhos licenciados e modificações sob a mesma licença ou a GNU GPLv3. Direitos autorais e avisos de licença devem ser preservados. Os colaboradores fornecem uma concessão expressa de direitos de patente. No entanto, um trabalho maior usando o trabalho licenciado por meio de interfaces fornecidas pelo trabalho licenciado pode ser distribuído sob termos diferentes e sem código-fonte para o trabalho maior.
 
