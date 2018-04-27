@@ -4,7 +4,7 @@
 #include <inttypes.h>
 #include <stdio.h>
 #include "Neurone.h"
-#include "ProgressBar.h"
+#include "tools/ProgressBar.h"
 
 //! Recalculate Synaptics Weights
 /*!
