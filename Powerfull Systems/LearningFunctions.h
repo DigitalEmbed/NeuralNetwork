@@ -3,8 +3,12 @@
 
 #include <inttypes.h>
 #include <stdio.h>
+
 #include "Neurone.h"
+#include "Files.h"
 #include "tools/ProgressBar.h"
+
+#define   DEBUG   true
 
 //! Recalculate Synaptics Weights
 /*!
@@ -33,6 +37,9 @@
   \param ui8_amountOfLines a 8-bit integer variable.
   \param b_progressBar a boolean variable.
 */
-void learn(Neurone *ArtificialNeurone, float f_learningRate, float **f_trainingMatrix, uint8_t ui8_amountOfLines, bool b_progressBar);
+void learn(Neurone *ArtificialNeurone, float f_learningRate, float **f_trainingMatrix, uint32_t ui32_amountOfLines, bool b_flagProgressBar);
+void learn(Neurone *ArtificialNeurone, float f_learningRate, float **f_trainingMatrix, uint32_t ui32_amountOfLines);
+void learn(Neurone *ArtificialNeurone, float f_learningRate, File *TargetFile, bool b_flagProgressBar);
+void learn(Neurone *ArtificialNeurone, float f_learningRate, File *TargetFile);
 
 #endif

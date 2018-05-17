@@ -1,6 +1,6 @@
 #include "Neurone.h"
 
-Neurone::Neurone(uint8_t ui8_amountOfDendrites, float (*f_synapticFunction)(float f_input)) {
+Neurone::Neurone(uint8_t ui8_amountOfDendrites, SynapticFunction f_synapticFunction) {
   this->ui8_amountOfDendrites = ui8_amountOfDendrites;
   this->f_bias = 0;
   this->f_axonium = 0;
@@ -115,6 +115,6 @@ void Neurone::setSynapticInputs(uint8_t ui8_dendrite, float f_value){
   }
 }
 
-void Neurone::setSynapticFunction(float (*f_synapticFunction)(float f_input)){
+void Neurone::setSynapticFunction(SynapticFunction f_synapticFunction){
   this->f_synapticFunction = f_synapticFunction;
 }

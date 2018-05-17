@@ -3,6 +3,8 @@
 
 #include <inttypes.h>
 
+typedef float (*SynapticFunction)(float f_input);
+
 //!  Neurone Class
 /*!
   This class is the representation of a perceptron. This structure solves linearly separable problems.
@@ -46,7 +48,7 @@ public:
     \param ui8_amountOfDendrites an 8-bit integer (a.k.a. byte) argument.
     \param f_synapticFunction a function float pointer.
   */
-  Neurone(uint8_t ui8_amountOfDendrites, float (*f_synapticFunction)(float f_input));
+  Neurone(uint8_t ui8_amountOfDendrites, SynapticFunction f_synapticFunction);
   //! Neuron Constructor
   /*!
     This destructor will delete this neuron object.
@@ -143,7 +145,7 @@ public:
     This method will set a synaptic input in this neuron.
     \param f_synapticFunction a function float pointer.
   */
-  void setSynapticFunction(float (*f_synapticFunction)(float f_input));
+  void setSynapticFunction(SynapticFunction f_synapticFunction);
 };
 
 #endif
